@@ -3,7 +3,7 @@
 # 🌍 World Layoffs Data Analysis Project
 
 ## Overview
-This project explores and cleans real-world layoff data using SQL, setting the foundation for a full data storytelling and insights pipeline. I started with raw, messy data and applied industry-standard data cleaning techniques to prepare it for effective EDA (Exploratory Data Analysis), which I will be conducting next. The goal is to extract meaningful patterns around company layoffs across industries, countries, and time periods.
+This project explores and cleans real-world layoff data using SQL, setting the foundation for a full data storytelling and insights pipeline. I started with raw, messy data and applied industry-standard data cleaning techniques to prepare it for effective EDA (Exploratory Data Analysis). The goal is to extract meaningful patterns around company layoffs across industries, countries, and time periods.
 
 I treated this like a real-world analyst task: building a staging layer, cleaning the data step-by-step, and documenting everything along the way.
 
